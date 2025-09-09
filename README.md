@@ -2,7 +2,7 @@
 Notes for high level overview of GitHub
 
 ## What is GitHub?
-GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code.
+GitHub is primarily a web application which allows developers to create, store, manage, and share their code.
 It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 Headquartered in California, GitHub has been a subsidiary of Microsoft since 2018.
 
@@ -33,7 +33,7 @@ a README file as a guide that gives users a detailed description of a project yo
 
 
 ## Finding a User in GitHub
-Go to the ["GitHub User Requests"(https://github.com/department-of-veterans-affairs/github-user-requests)] list and search for either the full or partial name
+Go to the ["GitHub User Requests"](https://github.com/department-of-veterans-affairs/github-user-requests) list and search for either the full or partial name
 
 <img width="561" height="112" alt="image" src="https://github.com/user-attachments/assets/5fc6a572-a9ad-4afb-b754-11b54ef1a6c5" />
 
