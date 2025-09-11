@@ -1,5 +1,15 @@
 # What_is_GitHub
 Notes for high level overview of GitHub
+Potential Attendees: 
+  * Myles, Sophia;
+  * Griles, Sherry;
+  * Angina, Ratna;
+  * Guo, Dan;
+  * Jayant, Margaret;
+  * Rebers, Ryan;
+  * Goldsmith, James;
+  * Orellana, Dominique
+  * Fleming-harkness, Willa
 
 ## What is GitHub?
 **GitHub** is primarily a web application which allows developers to create, store, manage, and share their code.
