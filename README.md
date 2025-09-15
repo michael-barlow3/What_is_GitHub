@@ -1,15 +1,16 @@
 # What_is_GitHub
 Notes for high level overview of GitHub
 Potential Attendees: 
-  * Myles, Sophia;
-  * Griles, Sherry;
-  * Angina, Ratna;
+  * Barlow, Mike - https://github.com/department-of-veterans-affairs/github-user-requests/issues/2265
+  * Myles, Sophia; - None
+  * Griles, Sherry; - https://github.com/department-of-veterans-affairs/github-user-requests/issues/7200
+  * Angina, Ratna; - https://github.com/department-of-veterans-affairs/github-user-requests/issues/1826
   * Guo, Dan;
-  * Jayant, Margaret;
-  * Rebers, Ryan;
+  * Jayant, Margaret; - @Margaret-Jayant
+  * Rebers, Ryan; - https://github.com/department-of-veterans-affairs/github-user-requests/issues/2078 - @ryan-rebers
   * Goldsmith, James;
-  * Orellana, Dominique
-  * Fleming-harkness, Willa
+  * Orellana, Dominique - @Dominique-Orellana 
+  * Fleming-harkness, Willa - https://github.com/department-of-veterans-affairs/github-user-requests/issues/2017 - @wflemingharkness
 
 ## What is GitHub?
 **GitHub** is primarily a web application which allows developers to create, store, manage, and share their code.
@@ -55,5 +56,10 @@ One of the resulting entries should be for a `GitHub Access Request for` for the
 
 <img width="488" height="643" alt="image" src="https://github.com/user-attachments/assets/f9a704a5-fef9-43d3-83d5-c375abefdb82" />
 
+Another method is to search for part of the user's name in the Login field in GitHub
+ - org:department-of-veterans-affairs Jayant in:login
+
+## Adding a user in GitHub
+https://github.com/department-of-veterans-affairs/github-user-requests/issues/26521
 
 
