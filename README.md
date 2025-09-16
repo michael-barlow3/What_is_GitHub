@@ -1,16 +1,16 @@
 # What_is_GitHub
 Notes for high level overview of GitHub
 Potential Attendees: 
-  * Barlow, Mike - https://github.com/department-of-veterans-affairs/github-user-requests/issues/2265
+  * Barlow, Mike - [GitHub Access Request](https://github.com/department-of-veterans-affairs/github-user-requests/issues/2265) for @Michael-Barlow3
   * Myles, Sophia; - None
-  * Griles, Sherry; - https://github.com/department-of-veterans-affairs/github-user-requests/issues/7200
-  * Angina, Ratna; - https://github.com/department-of-veterans-affairs/github-user-requests/issues/1826
-  * Guo, Dan;
+  * Griles, Sherry; - [GitHub Access Request](https://github.com/department-of-veterans-affairs/github-user-requests/issues/7200) for @sgriles
+  * Angina, Ratna; - [GitHub Access Request](https://github.com/department-of-veterans-affairs/github-user-requests/issues/1826) for @ranginagithub
+  * Guo, Dan; - @dan-guo
   * Jayant, Margaret; - @Margaret-Jayant
-  * Rebers, Ryan; - https://github.com/department-of-veterans-affairs/github-user-requests/issues/2078 - @ryan-rebers
-  * Goldsmith, James;
+  * Rebers, Ryan; - [GitHub Access Request](https://github.com/department-of-veterans-affairs/github-user-requests/issues/2078) for @ryan-rebers
+  * Goldsmith, James; - @james-goldsmith1
   * Orellana, Dominique - @Dominique-Orellana 
-  * Fleming-harkness, Willa - https://github.com/department-of-veterans-affairs/github-user-requests/issues/2017 - @wflemingharkness
+  * Fleming-harkness, Willa - [GitHub Access Request](https://github.com/department-of-veterans-affairs/github-user-requests/issues/2017) for @wflemingharkness
 
 ## What is GitHub?
 **GitHub** is primarily a web application which allows developers to create, store, manage, and share their code.
@@ -61,5 +61,8 @@ Another method is to search for part of the user's name in the Login field in Gi
 
 ## Adding a user in GitHub
 https://github.com/department-of-veterans-affairs/github-user-requests/issues/26521
+
+## Create GitHub Account
+https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
 
 
