@@ -5,7 +5,7 @@ Potential Attendees:
   * Myles, Sophia; - None
   * Griles, Sherry; - [GitHub Access Request](https://github.com/department-of-veterans-affairs/github-user-requests/issues/7200) for @sgriles
   * Angina, Ratna; - [GitHub Access Request](https://github.com/department-of-veterans-affairs/github-user-requests/issues/1826) for @ranginagithub
-  * Guo, Dan; - @dan-guo
+  * Guo, Dan; - @dan-guo - danxguo
   * Jayant, Margaret; - @Margaret-Jayant
   * Rebers, Ryan; - [GitHub Access Request](https://github.com/department-of-veterans-affairs/github-user-requests/issues/2078) for @ryan-rebers
   * Goldsmith, James; - @james-goldsmith1
