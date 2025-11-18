@@ -64,6 +64,8 @@ Another method is to search for part of the user's name in the Login field in Gi
 ## Adding a user in GitHub
 https://github.com/department-of-veterans-affairs/github-user-requests/issues/26521
 
+## Add User to Org: [username]
+https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?template=add-user.yml
 
 ## GHEC-US
 GitHub Enterprise Cloud - US (GHEC-US)
